@@ -1,0 +1,15 @@
+{
+  "name": "aramark2",
+  "version": "1.0.0",
+  "description": "Automatización para aramark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Sara Osorio",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
